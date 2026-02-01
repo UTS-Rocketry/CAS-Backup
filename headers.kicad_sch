@@ -393,7 +393,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "CAS Board 2025\n\n"
+	(text "CAS Board 2026"
 		(exclude_from_sim no)
 		(at 209.55 177.8 0)
 		(effects

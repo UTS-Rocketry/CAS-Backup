@@ -725,311 +725,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "BSS816NWH6327XTSA1:BSS816NWH6327XTSA1"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Q"
-				(at 11.43 3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "BSS816NWH6327XTSA1"
-				(at 11.43 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "SOT65P210X100-3N"
-				(at 11.43 -98.73 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BSS816NW-DS-v02_03-en.pdf?fileId=db3a304335113a6301351e704a2e1332"
-				(at 11.43 -198.73 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "BSS816NWH6327XTSA1 N-Channel MOSFET, 1.4 A, 20 V OptiMOS 2, 3-Pin SOT-323 Infineon"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "1"
-				(at 11.43 -398.73 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "726-SP000917562"
-				(at 11.43 -498.73 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSS816NWH6327XTSA1?qs=2wN1DOYHWdTZaABtZbTahw%3D%3D"
-				(at 11.43 -598.73 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Infineon"
-				(at 11.43 -698.73 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "BSS816NWH6327XTSA1"
-				(at 11.43 -798.73 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "BSS816NWH6327XTSA1_1_1"
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 5.08) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 5.588) (xy 5.842 4.572)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 2.54) (xy 6.858 3.048) (xy 6.858 2.032) (xy 5.842 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 2.032) (xy 5.842 3.048)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 -0.508) (xy 5.842 0.508)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 6.35 2.54)
-					(radius 3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 5.08) (xy 5.842 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 5.08) (xy 7.62 7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 5.842 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 7.62 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 2.54)
-					(name "G"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 10.16 270)
-					(length 2.54)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -5.08 90)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "CBT-09427-SMT:CBT-09427-SMT"
 			(pin_names
 				(offset 1.016)
@@ -1998,38 +1693,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Decoupling capacitors ditched because \nthe cable to the run camera from the \ninterface is like 50 - 100 mm long."
-		(exclude_from_sim no)
-		(at 211.328 135.89 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "0d89d721-899d-445e-b71c-33e21c197279")
-	)
-	(text "Camera 1 Interface"
-		(exclude_from_sim no)
-		(at 44.196 98.044 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-		)
-		(uuid "0dc7e54e-ef2d-47c3-9aad-a6a751a4ed4e")
-	)
-	(text "Decoupling capacitors ditched because \nthe cable to the run camera from the \ninterface is like 50 - 100 mm long."
-		(exclude_from_sim no)
-		(at 48.26 134.874 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "2a6aab34-4930-4444-8696-dc9e66001848")
-	)
 	(text "Encoder Interface\n"
 		(exclude_from_sim no)
 		(at 123.444 36.83 0)
@@ -2042,7 +1705,7 @@
 		)
 		(uuid "4544a949-7c63-4fe4-b137-7d21892f3349")
 	)
-	(text "CAS Board 2025\n\n"
+	(text "CAS Board 2026"
 		(exclude_from_sim no)
 		(at 209.55 177.8 0)
 		(effects
@@ -2053,30 +1716,6 @@
 			)
 		)
 		(uuid "468953c2-3da8-45a5-99b2-c6dcd789408d")
-	)
-	(text "Camera 3 Interface"
-		(exclude_from_sim no)
-		(at 205.74 98.044 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-		)
-		(uuid "48c5dd50-1c11-4594-af7e-329ed671e283")
-	)
-	(text "Camera 2 Interface"
-		(exclude_from_sim no)
-		(at 124.968 98.044 0)
-		(effects
-			(font
-				(size 2.54 2.54)
-				(thickness 0.508)
-				(bold yes)
-			)
-		)
-		(uuid "51a54966-6ea1-44d9-9a5b-76558baa2600")
 	)
 	(text "Servo Interface\n\n"
 		(exclude_from_sim no)
@@ -2102,16 +1741,6 @@
 		)
 		(uuid "86ded9af-0cd3-4a6b-a581-f424705857e1")
 	)
-	(text "Decoupling capacitors ditched because \nthe cable to the run camera from the \ninterface is like 50 - 100 mm long."
-		(exclude_from_sim no)
-		(at 128.27 134.874 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "91416635-171f-4cb6-b6f6-3b12c1757a31")
-	)
 	(junction
 		(at 227.33 62.23)
 		(diameter 0)
@@ -2128,46 +1757,6 @@
 		(at 153.67 71.12)
 		(uuid "76323d86-b51e-4073-8e56-7ccb7d600556")
 	)
-	(polyline
-		(pts
-			(xy 182.88 100.33) (xy 182.88 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "035f186d-6e61-47ef-83a7-486292e9deb3")
-	)
-	(wire
-		(pts
-			(xy 165.1 152.4) (xy 165.1 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "042c5d98-72bd-47a0-8c5d-5eb6f7c13544")
-	)
-	(wire
-		(pts
-			(xy 246.38 132.08) (xy 246.38 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "082e29f0-9f54-4697-b920-152e171e77b7")
-	)
-	(wire
-		(pts
-			(xy 86.36 113.03) (xy 86.36 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "092d6a2a-5faa-443b-92be-8e35c205b6b5")
-	)
 	(wire
 		(pts
 			(xy 205.74 68.58) (xy 209.55 68.58)
@@ -2178,46 +1767,6 @@
 		)
 		(uuid "0dc7d9ad-c699-4c2e-a0d7-1e95161a7be6")
 	)
-	(wire
-		(pts
-			(xy 191.77 144.78) (xy 250.19 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "140888e8-ae5e-4305-8150-8e113360564b")
-	)
-	(polyline
-		(pts
-			(xy 264.16 161.29) (xy 187.96 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e8c7291-1130-4d34-a3d7-4ec7a87f4a19")
-	)
-	(wire
-		(pts
-			(xy 191.77 144.78) (xy 191.77 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20aa88ad-7a63-48f0-bf71-e88cd9d18bf2")
-	)
-	(wire
-		(pts
-			(xy 246.38 113.03) (xy 246.38 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2412a784-41d6-46ce-97cb-9953f90a95bd")
-	)
 	(polyline
 		(pts
 			(xy 25.4 91.44) (xy 25.4 39.37)
@@ -2227,56 +1776,6 @@
 			(type default)
 		)
 		(uuid "25355e15-e9e2-462a-a372-a6451b210141")
-	)
-	(wire
-		(pts
-			(xy 87.63 152.4) (xy 86.36 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30927e6a-393a-4b3f-bb14-fbb467de7b32")
-	)
-	(wire
-		(pts
-			(xy 29.21 144.78) (xy 87.63 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32e91893-68e1-4224-b172-d3ef1e76bec3")
-	)
-	(wire
-		(pts
-			(xy 29.21 110.49) (xy 29.21 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "33fc7324-61f8-4a33-95aa-718259e3b106")
-	)
-	(wire
-		(pts
-			(xy 140.97 127) (xy 144.78 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "359a92b8-b407-4b57-a72d-c27805b2c802")
-	)
-	(polyline
-		(pts
-			(xy 101.6 161.29) (xy 25.4 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "388adddb-957f-4107-b276-ce5b5d1bd026")
 	)
 	(wire
 		(pts
@@ -2310,66 +1809,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 113.03) (xy 165.1 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42f89ed4-3908-4ee2-952d-397e38eccacc")
-	)
-	(wire
-		(pts
-			(xy 59.69 127) (xy 62.23 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45451e7c-3c96-48bf-9eb3-40524f394d52")
-	)
-	(wire
-		(pts
-			(xy 168.91 152.4) (xy 165.1 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46137f83-3e2a-41e4-84bd-2e31c3dbb17a")
-	)
-	(wire
-		(pts
-			(xy 87.63 142.24) (xy 86.36 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46e277e2-3e91-4e33-94cf-c9ab9940274a")
-	)
-	(polyline
-		(pts
-			(xy 101.6 100.33) (xy 101.6 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4814ef74-3349-4ff5-86e4-1a4b3009c37c")
-	)
-	(wire
-		(pts
-			(xy 110.49 144.78) (xy 110.49 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4838bae9-c86c-4744-a54f-1e3fb0dce0c2")
-	)
-	(wire
-		(pts
 			(xy 227.33 50.8) (xy 227.33 52.07)
 		)
 		(stroke
@@ -2377,56 +1816,6 @@
 			(type default)
 		)
 		(uuid "486a17d4-1496-4c89-90d0-9ea73ff16790")
-	)
-	(wire
-		(pts
-			(xy 246.38 142.24) (xy 250.19 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b4d1cfb-b1df-468b-b290-839ef406f711")
-	)
-	(polyline
-		(pts
-			(xy 25.4 161.29) (xy 25.4 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53e831e8-c8ce-41e9-b9bd-380a43888cf8")
-	)
-	(polyline
-		(pts
-			(xy 187.96 100.33) (xy 264.16 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5485319f-70c5-4898-950c-2801e1722940")
-	)
-	(wire
-		(pts
-			(xy 29.21 144.78) (xy 29.21 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a36e38b-2c5b-4c46-bcf3-79c661a2b06e")
-	)
-	(polyline
-		(pts
-			(xy 182.88 161.29) (xy 106.68 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e167394-d0da-4f62-a3e7-53ac58831570")
 	)
 	(wire
 		(pts
@@ -2448,36 +1837,6 @@
 		)
 		(uuid "652f704d-0552-4f5c-bf31-7a3b0a2fdc12")
 	)
-	(wire
-		(pts
-			(xy 69.85 127) (xy 78.74 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67d9e75b-c9f5-4622-a197-874a08db14c7")
-	)
-	(wire
-		(pts
-			(xy 229.87 147.32) (xy 250.19 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cf24a1d-2b67-4b32-8f31-bbcfbb61a9fd")
-	)
-	(wire
-		(pts
-			(xy 229.87 149.86) (xy 250.19 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "708ca329-911f-4d76-9662-fc68e81f897e")
-	)
 	(polyline
 		(pts
 			(xy 25.4 39.37) (xy 101.6 39.37)
@@ -2487,56 +1846,6 @@
 			(type default)
 		)
 		(uuid "710a3cfd-afa6-4080-b04e-4c6260772ac8")
-	)
-	(wire
-		(pts
-			(xy 67.31 149.86) (xy 87.63 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72262aa9-701d-4452-8746-91602b1c3857")
-	)
-	(wire
-		(pts
-			(xy 165.1 142.24) (xy 165.1 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7280a680-87a3-422b-bb49-69813710ea8b")
-	)
-	(wire
-		(pts
-			(xy 86.36 132.08) (xy 86.36 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7281c06b-f042-41b3-ac86-a91c88233975")
-	)
-	(wire
-		(pts
-			(xy 110.49 110.49) (xy 110.49 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78c4c5cf-157c-4ae1-8fba-7462b9e81fdf")
-	)
-	(wire
-		(pts
-			(xy 233.68 127) (xy 238.76 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7958b0ec-0093-490a-b374-0385b278cb78")
 	)
 	(wire
 		(pts
@@ -2568,26 +1877,6 @@
 		)
 		(uuid "8117f47f-a298-4caf-8673-fdcfce60dd79")
 	)
-	(wire
-		(pts
-			(xy 29.21 113.03) (xy 86.36 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81bce95b-8c3f-472b-90aa-a7dc7a8b7af7")
-	)
-	(polyline
-		(pts
-			(xy 106.68 100.33) (xy 182.88 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84533367-9f43-4c63-ab9b-a66dd7848794")
-	)
 	(polyline
 		(pts
 			(xy 187.96 39.37) (xy 264.16 39.37)
@@ -2610,16 +1899,6 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 113.03) (xy 165.1 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d6e4875-7341-4384-ae6a-bc7cd9a4fdb4")
-	)
-	(wire
-		(pts
 			(xy 227.33 52.07) (xy 238.76 52.07)
 		)
 		(stroke
@@ -2627,16 +1906,6 @@
 			(type default)
 		)
 		(uuid "96a0e3d3-c379-479f-b2fc-b4cf66976040")
-	)
-	(wire
-		(pts
-			(xy 67.31 147.32) (xy 87.63 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "999f84ae-0bae-4a1e-b31f-5e9fba5fb48b")
 	)
 	(wire
 		(pts
@@ -2657,16 +1926,6 @@
 			(type default)
 		)
 		(uuid "9c291e43-3e6d-4be8-9f5f-5877a5e6e3ee")
-	)
-	(wire
-		(pts
-			(xy 152.4 127) (xy 157.48 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a35f58f2-0dd0-450b-8b7b-07514739536e")
 	)
 	(polyline
 		(pts
@@ -2700,16 +1959,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 142.24) (xy 165.1 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa421352-2d77-4c7b-b45f-08f631bc6250")
-	)
-	(wire
-		(pts
 			(xy 137.16 66.04) (xy 153.67 66.04)
 		)
 		(stroke
@@ -2728,26 +1977,6 @@
 		)
 		(uuid "b07689c2-2dcf-44d1-8422-c54a16f91a47")
 	)
-	(polyline
-		(pts
-			(xy 264.16 100.33) (xy 264.16 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b58093d9-d5d0-4793-bac2-76ddfd1fbaef")
-	)
-	(wire
-		(pts
-			(xy 222.25 127) (xy 226.06 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b58422fc-77f2-4cc2-acd4-67cdde067952")
-	)
 	(wire
 		(pts
 			(xy 227.33 52.07) (xy 227.33 53.34)
@@ -2757,16 +1986,6 @@
 			(type default)
 		)
 		(uuid "ba3ecea1-cdec-4f07-a46b-3185dbdf5149")
-	)
-	(wire
-		(pts
-			(xy 148.59 147.32) (xy 168.91 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bccfdb08-a702-4953-a8cd-662a75f1245c")
 	)
 	(polyline
 		(pts
@@ -2787,16 +2006,6 @@
 			(type default)
 		)
 		(uuid "c82f3678-db70-4837-8968-fe67fa465449")
-	)
-	(wire
-		(pts
-			(xy 86.36 152.4) (xy 86.36 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8dcac1e-22fb-4d7d-845d-c40e38a7cdfe")
 	)
 	(wire
 		(pts
@@ -2848,66 +2057,6 @@
 		)
 		(uuid "d5a6b932-2c16-40a6-a68e-f0658778d5bb")
 	)
-	(wire
-		(pts
-			(xy 110.49 144.78) (xy 168.91 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8574644-ae1f-4518-a44d-a69359367494")
-	)
-	(polyline
-		(pts
-			(xy 25.4 100.33) (xy 101.6 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da62f6b7-b104-4860-b4f5-891e9b847a6d")
-	)
-	(polyline
-		(pts
-			(xy 187.96 161.29) (xy 187.96 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0e8a4ae-54be-43d3-92d1-35f1a11fc8ea")
-	)
-	(wire
-		(pts
-			(xy 191.77 113.03) (xy 246.38 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5e4ff9c-f446-415b-82e5-d635fc7cfd20")
-	)
-	(wire
-		(pts
-			(xy 246.38 152.4) (xy 246.38 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e80ca652-ccbd-4541-96ec-8a213a3d3322")
-	)
-	(polyline
-		(pts
-			(xy 106.68 161.29) (xy 106.68 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee1e387e-b38a-4db1-a455-bd6c98b0b99b")
-	)
 	(polyline
 		(pts
 			(xy 264.16 39.37) (xy 264.16 91.44)
@@ -2920,16 +2069,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 149.86) (xy 168.91 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7f7ad51-4385-4b86-bae3-fec7fb673742")
-	)
-	(wire
-		(pts
 			(xy 227.33 73.66) (xy 227.33 76.2)
 		)
 		(stroke
@@ -2937,26 +2076,6 @@
 			(type default)
 		)
 		(uuid "f93357bc-05bf-4545-b389-863bbe1b64a1")
-	)
-	(wire
-		(pts
-			(xy 191.77 110.49) (xy 191.77 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe6ea4b3-8c19-4c59-9709-1fcf852917ca")
-	)
-	(wire
-		(pts
-			(xy 250.19 152.4) (xy 246.38 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fec01d0b-2605-4624-8bbe-55889ff1c695")
 	)
 	(image
 		(at 249.682 174.498)
@@ -31464,47 +30583,6 @@
 			"AAAAAAAAAAAAAAAAAAAAAA=="
 		)
 	)
-	(label "CAM_1_VO"
-		(at 86.36 142.24 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2d907a34-5f69-41cb-8f76-2dad713c0590")
-	)
-	(label "CAM_3_VO"
-		(at 246.38 142.24 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "68337222-12f7-4307-989a-bbbc4034f5a1")
-	)
-	(label "CAM_2_VO"
-		(at 165.1 142.24 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9ae03eb2-d3a4-47a3-8c6e-f150a3fde36e")
-	)
-	(hierarchical_label "CAM_1_TX"
-		(shape input)
-		(at 67.31 149.86 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "01cdfd20-ac15-48b6-97be-8b6dbc671a82")
-	)
 	(hierarchical_label "5V_SERVO"
 		(shape input)
 		(at 45.72 63.5 90)
@@ -31515,17 +30593,6 @@
 			(justify left)
 		)
 		(uuid "02fbbff4-bd43-4ded-8b3c-079953e6bba9")
-	)
-	(hierarchical_label "5V_CAM"
-		(shape input)
-		(at 29.21 110.49 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "07f6dea1-2436-48d0-92e4-fc8a6fa610f5")
 	)
 	(hierarchical_label "BUZZ"
 		(shape input)
@@ -31538,28 +30605,6 @@
 		)
 		(uuid "126abff5-c7cb-4eff-8384-36b4dfd70eed")
 	)
-	(hierarchical_label "5V_CAM"
-		(shape input)
-		(at 110.49 110.49 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "1b8e7f6d-f943-409d-a1d0-2a4467604bce")
-	)
-	(hierarchical_label "5V_CAM"
-		(shape input)
-		(at 191.77 110.49 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2c1b3b9f-0024-4d6a-a931-b5a164121397")
-	)
 	(hierarchical_label "5V_SERVO"
 		(shape input)
 		(at 123.19 59.69 90)
@@ -31570,17 +30615,6 @@
 			(justify left)
 		)
 		(uuid "31822424-30b9-49fd-8021-9fc998e2cf05")
-	)
-	(hierarchical_label "CAM_2_EN"
-		(shape input)
-		(at 140.97 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "34fa8ae2-12a3-4d56-bde9-92a563e24b74")
 	)
 	(hierarchical_label "SERVO_PWM"
 		(shape input)
@@ -31593,17 +30627,6 @@
 		)
 		(uuid "352209c3-6caf-446b-bec4-2a50cfa670b0")
 	)
-	(hierarchical_label "CAM_3_RX"
-		(shape input)
-		(at 229.87 147.32 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3e95eb51-3c09-4103-baa5-8797dee3041f")
-	)
 	(hierarchical_label "ENC_A"
 		(shape input)
 		(at 137.16 66.04 180)
@@ -31614,17 +30637,6 @@
 			(justify right)
 		)
 		(uuid "4d8b2a7e-e1bb-4295-a9be-df7bfa2017b0")
-	)
-	(hierarchical_label "CAM_1_RX"
-		(shape input)
-		(at 67.31 147.32 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "593c1a79-b5fd-4531-be3a-e57ecd64d965")
 	)
 	(hierarchical_label "+3V3"
 		(shape input)
@@ -31637,17 +30649,6 @@
 		)
 		(uuid "6bed889d-9ef2-463a-8d6d-c23d7391f24a")
 	)
-	(hierarchical_label "CAM_3_TX"
-		(shape input)
-		(at 229.87 149.86 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9f673b79-e2a0-4137-b9b4-30a3f3d2a1f5")
-	)
 	(hierarchical_label "ENC_B"
 		(shape input)
 		(at 137.16 68.58 180)
@@ -31658,262 +30659,6 @@
 			(justify right)
 		)
 		(uuid "b9c83def-2935-4ec7-95e6-1c1921ac1201")
-	)
-	(hierarchical_label "CAM_2_RX"
-		(shape input)
-		(at 148.59 147.32 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bc52d871-ae3a-41fc-8c2a-16bab37330a2")
-	)
-	(hierarchical_label "CAM_2_TX"
-		(shape input)
-		(at 148.59 149.86 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "deb0b7d4-41d3-448d-a85e-c8f669ae88c5")
-	)
-	(hierarchical_label "CAM_3_EN"
-		(shape input)
-		(at 222.25 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e7bd752f-0646-4242-a8cc-3954a76651c4")
-	)
-	(hierarchical_label "CAM_1_EN"
-		(shape input)
-		(at 59.69 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ec8327c8-28cc-4bdb-90d4-0591459ca914")
-	)
-	(symbol
-		(lib_id "2025-06-21_05-21-07:S05B-PASK-2LFSN")
-		(at 250.19 142.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "05078fb0-f073-40bf-8a34-bb0eb7d6d579")
-		(property "Reference" "J10"
-			(at 255.016 156.464 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Cam 3"
-			(at 255.016 159.004 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "S05B_PASK_2_LF__SN_:CONN_S05B-PASK-2_JST"
-			(at 250.19 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "S05B-PASK-2LFSN"
-			(at 250.19 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 250.19 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "8e985337-3fc9-48df-8af3-d42962971db2")
-		)
-		(pin "1"
-			(uuid "b759c3bb-4743-4277-8a2b-57e63d896d60")
-		)
-		(pin "2"
-			(uuid "cc989cb3-f63f-42da-a8ff-223623c7584e")
-		)
-		(pin "3"
-			(uuid "03349c56-d854-4055-a7c2-7fd0bd9360db")
-		)
-		(pin "5"
-			(uuid "046a15c4-fbf5-48d5-96ef-a041e5cce76e")
-		)
-		(instances
-			(project "SimplerFlight_v2"
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "J10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 110.49 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0f4b5eae-639c-4ff1-a843-acfdc64f8680")
-		(property "Reference" "#PWR058"
-			(at 110.49 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 110.49 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 110.49 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 110.49 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 110.49 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c87245c2-93e8-4ad2-b2f8-36c9da2c0885")
-		)
-		(instances
-			(project "SimplerFlight_v2"
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "#PWR058")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 66.04 127 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0f6f7f4a-2bf5-4df5-8df5-72a9edff855b")
-		(property "Reference" "R20"
-			(at 66.04 122.174 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1kR"
-			(at 66.04 124.714 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 66.04 128.778 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 66.04 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 66.04 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "064b7f11-be00-4995-9cc6-c15a3e3118bf")
-		)
-		(pin "1"
-			(uuid "1c12f273-0b81-4e8c-90da-0cc343af8615")
-		)
-		(instances
-			(project "SimplerFlight_v2"
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "R20")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Device:R")
@@ -31979,136 +30724,6 @@
 			(project "SimplerFlight_v2"
 				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
 					(reference "R18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 86.36 153.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "21eb9983-5444-47b4-98e3-1cca9ebf0d6b")
-		(property "Reference" "#PWR056"
-			(at 86.36 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 86.36 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "22aa5f01-2fc3-421d-91e1-e31a80cb70a1")
-		)
-		(instances
-			(project "SimplerFlight_v2"
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "#PWR056")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 246.38 153.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2b181a87-e19f-451c-bb20-ad9edf81efbd")
-		(property "Reference" "#PWR049"
-			(at 246.38 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 246.38 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 246.38 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 246.38 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 246.38 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "98529bd8-6b2b-4eed-bf4a-a45d4efb293a")
-		)
-		(instances
-			(project "SimplerFlight_v2"
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -32345,196 +30960,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 191.77 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6fe9de84-bdcf-4da1-bdf9-ad54f9bca1c7")
-		(property "Reference" "#PWR048"
-			(at 191.77 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 191.77 149.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 191.77 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 191.77 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 191.77 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3131d99e-1b1e-408b-8d86-2889d2002029")
-		)
-		(instances
-			(project "SimplerFlight_v2"
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "#PWR048")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "BSS816NWH6327XTSA1:BSS816NWH6327XTSA1")
-		(at 157.48 127 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "73316dc9-0f9c-4c03-9f22-92e8ee2c186b")
-		(property "Reference" "Q1"
-			(at 159.004 119.888 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BSS816NWH6327XTSA1"
-			(at 139.446 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "SOT65P210X100-3N"
-			(at 168.91 225.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BSS816NW-DS-v02_03-en.pdf?fileId=db3a304335113a6301351e704a2e1332"
-			(at 168.91 325.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BSS816NWH6327XTSA1 N-Channel MOSFET, 1.4 A, 20 V OptiMOS 2, 3-Pin SOT-323 Infineon"
-			(at 157.48 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1"
-			(at 168.91 525.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "726-SP000917562"
-			(at 168.91 625.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSS816NWH6327XTSA1?qs=2wN1DOYHWdTZaABtZbTahw%3D%3D"
-			(at 168.91 725.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Infineon"
-			(at 168.91 825.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "BSS816NWH6327XTSA1"
-			(at 168.91 925.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "14b67194-8d3a-4c35-a26e-84ba374456b1")
-		)
-		(pin "3"
-			(uuid "e5cae33c-feff-4824-8458-9157d1c6436b")
-		)
-		(pin "2"
-			(uuid "0cfa85f6-919a-42ac-8a3a-b23980baedd7")
-		)
-		(instances
-			(project "SimplerFlight_v2"
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "Q1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "2025-06-21_05-21-07:S05B-PASK-2LFSN")
 		(at 153.67 60.96 0)
 		(unit 1)
@@ -32609,410 +31034,6 @@
 			(project "SimplerFlight_v2"
 				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
 					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 229.87 127 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8019ecec-0edb-44d9-a5f0-ba79ccaff338")
-		(property "Reference" "R26"
-			(at 229.87 122.174 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1kR"
-			(at 229.87 124.714 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 229.87 128.778 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 229.87 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 229.87 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "48295877-ad73-423b-a197-d17f00e26e3b")
-		)
-		(pin "1"
-			(uuid "974ee7e4-2ac2-42da-affc-19e110a11cb8")
-		)
-		(instances
-			(project "SimplerFlight_v2"
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "R26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "2025-06-21_05-21-07:S05B-PASK-2LFSN")
-		(at 168.91 142.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "83e58afb-959d-47f9-9ae7-994210e737c5")
-		(property "Reference" "J12"
-			(at 173.736 156.464 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Cam 2"
-			(at 173.736 159.004 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "S05B_PASK_2_LF__SN_:CONN_S05B-PASK-2_JST"
-			(at 168.91 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "S05B-PASK-2LFSN"
-			(at 168.91 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 168.91 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "de0d75fd-eee1-407b-a603-593ac74b10de")
-		)
-		(pin "1"
-			(uuid "5508e2ca-4b56-4566-a0f0-553201353551")
-		)
-		(pin "2"
-			(uuid "4ba977af-ed4a-4698-896f-2cb73a93f351")
-		)
-		(pin "3"
-			(uuid "cfe758e2-0f2b-4892-ba83-c5e81279a7f9")
-		)
-		(pin "5"
-			(uuid "bdabc730-5114-4f10-9326-4042a58f7d48")
-		)
-		(instances
-			(project "SimplerFlight_v2"
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "J12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 148.59 127 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9a06cb42-5953-4438-bdee-e0dc015d25e8")
-		(property "Reference" "R25"
-			(at 148.59 122.174 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1kR"
-			(at 148.59 124.714 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 148.59 128.778 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 148.59 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 148.59 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "61cd4bd3-c687-48f9-b10b-4eb56fead67a")
-		)
-		(pin "1"
-			(uuid "67b2bb53-c568-4b6c-8230-955bb28e95f9")
-		)
-		(instances
-			(project "SimplerFlight_v2"
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "R25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "BSS816NWH6327XTSA1:BSS816NWH6327XTSA1")
-		(at 78.74 127 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a709b36f-2d1f-4eb7-b8c9-47a48e89d7fe")
-		(property "Reference" "Q6"
-			(at 80.264 119.888 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BSS816NWH6327XTSA1"
-			(at 60.706 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "BSS816NWH6327XTSA1:SOT65P210X100-3N"
-			(at 90.17 225.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BSS816NW-DS-v02_03-en.pdf?fileId=db3a304335113a6301351e704a2e1332"
-			(at 90.17 325.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BSS816NWH6327XTSA1 N-Channel MOSFET, 1.4 A, 20 V OptiMOS 2, 3-Pin SOT-323 Infineon"
-			(at 78.74 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1"
-			(at 90.17 525.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "726-SP000917562"
-			(at 90.17 625.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSS816NWH6327XTSA1?qs=2wN1DOYHWdTZaABtZbTahw%3D%3D"
-			(at 90.17 725.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Infineon"
-			(at 90.17 825.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "BSS816NWH6327XTSA1"
-			(at 90.17 925.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f6d922d8-02c0-4fbe-81c5-e6974957be14")
-		)
-		(pin "3"
-			(uuid "f84a9c28-f33a-4738-8cee-6e40ea26f019")
-		)
-		(pin "2"
-			(uuid "6372a1fd-5880-41a3-ac3b-0a7c194440ce")
-		)
-		(instances
-			(project ""
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "Q6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 165.1 153.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c2730a21-4720-43ff-a750-bd92e846096c")
-		(property "Reference" "#PWR059"
-			(at 165.1 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 165.1 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 165.1 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 165.1 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 165.1 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "04a844f7-0517-42e9-a3bf-e661facadfc1")
-		)
-		(instances
-			(project "SimplerFlight_v2"
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -33150,151 +31171,6 @@
 		)
 	)
 	(symbol
-		(lib_id "2025-06-21_05-21-07:S05B-PASK-2LFSN")
-		(at 87.63 142.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c768983e-9ec8-46d0-a443-4deeac180fa0")
-		(property "Reference" "J9"
-			(at 92.202 156.464 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Cam 1"
-			(at 92.202 159.004 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "S05B_PASK_2_LF__SN_:CONN_S05B-PASK-2_JST"
-			(at 87.63 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "S05B-PASK-2LFSN"
-			(at 87.63 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 87.63 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "786cc565-1851-43c7-bfd9-4cc46f4b59a3")
-		)
-		(pin "1"
-			(uuid "71180bb8-459d-4822-9a09-b85552b00245")
-		)
-		(pin "2"
-			(uuid "81addee7-8315-4d92-be15-4089c1bf0def")
-		)
-		(pin "3"
-			(uuid "93d014a0-5a59-4d80-a9ff-68536ba23e8d")
-		)
-		(pin "5"
-			(uuid "2d212d5c-73ca-4a70-9144-09586c603c3b")
-		)
-		(instances
-			(project ""
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "J9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 29.21 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d5d6af93-dfa5-4ec3-bc5f-9f693bcb7cb9")
-		(property "Reference" "#PWR046"
-			(at 29.21 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 28.956 150.114 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 29.21 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 29.21 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 29.21 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "29f26fb3-6414-42e5-be1c-96d4a9170137")
-		)
-		(instances
-			(project ""
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "#PWR046")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
 		(at 91.44 66.04 0)
 		(mirror y)
@@ -33425,131 +31301,6 @@
 			(project "SimplerFlight_v2"
 				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
 					(reference "#PWR053")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "BSS816NWH6327XTSA1:BSS816NWH6327XTSA1")
-		(at 238.76 127 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e78b1815-fb5e-4bf9-ace3-ad82060cca89")
-		(property "Reference" "Q3"
-			(at 240.284 119.888 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BSS816NWH6327XTSA1"
-			(at 220.726 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "SOT65P210X100-3N"
-			(at 250.19 225.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-BSS816NW-DS-v02_03-en.pdf?fileId=db3a304335113a6301351e704a2e1332"
-			(at 250.19 325.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BSS816NWH6327XTSA1 N-Channel MOSFET, 1.4 A, 20 V OptiMOS 2, 3-Pin SOT-323 Infineon"
-			(at 238.76 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1"
-			(at 250.19 525.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "726-SP000917562"
-			(at 250.19 625.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BSS816NWH6327XTSA1?qs=2wN1DOYHWdTZaABtZbTahw%3D%3D"
-			(at 250.19 725.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Infineon"
-			(at 250.19 825.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "BSS816NWH6327XTSA1"
-			(at 250.19 925.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "413f8a16-5fde-4e10-beac-b4fb1096f686")
-		)
-		(pin "3"
-			(uuid "0a6cc26b-56fb-45c4-9a9a-08615f99304a")
-		)
-		(pin "2"
-			(uuid "810f1047-d5be-4890-b9c1-17cbd7e207ab")
-		)
-		(instances
-			(project "SimplerFlight_v2"
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4/48646a32-6556-4772-9e6c-3c45575ecce9"
-					(reference "Q3")
 					(unit 1)
 				)
 			)

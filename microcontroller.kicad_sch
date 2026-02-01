@@ -2002,9 +2002,9 @@
 		)
 		(uuid "3962114e-da94-4f57-8a52-19737bed8ccc")
 	)
-	(text "CAS Board 2025\n\n"
+	(text "CAS Board 2026"
 		(exclude_from_sim no)
-		(at 209.55 177.8 0)
+		(at 209.55 173.736 0)
 		(effects
 			(font
 				(size 5.08 5.08)

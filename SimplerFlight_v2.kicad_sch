@@ -510,9 +510,9 @@
 		)
 		(uuid "9d3b86f9-2cf4-40e7-9634-88d5b187b4f2")
 	)
-	(text "CAS Board 2025\n\n"
+	(text "CAS Board 2026"
 		(exclude_from_sim no)
-		(at 210.058 177.292 0)
+		(at 209.042 173.736 0)
 		(effects
 			(font
 				(size 5.08 5.08)
@@ -800,16 +800,6 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 110.49) (xy 115.57 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a5b1ec2-34a2-4817-87e8-d3d4b4cc8407")
-	)
-	(wire
-		(pts
 			(xy 64.77 118.11) (xy 88.9 118.11)
 		)
 		(stroke
@@ -897,16 +887,6 @@
 			(type default)
 		)
 		(uuid "288e3e9c-557c-441f-a6e0-92e064b446b1")
-	)
-	(wire
-		(pts
-			(xy 64.77 97.79) (xy 115.57 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c10dd2b-395d-49c2-910b-aaf28d80a49a")
 	)
 	(polyline
 		(pts
@@ -1038,16 +1018,6 @@
 		)
 		(uuid "42d53c0b-d6db-4a54-a8e5-5f7663e242b2")
 	)
-	(wire
-		(pts
-			(xy 64.77 92.71) (xy 115.57 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42e7ada0-26e7-49ef-9bfc-0a9fffaf9462")
-	)
 	(polyline
 		(pts
 			(xy 250.825 26.035) (xy 270.51 26.035)
@@ -1167,16 +1137,6 @@
 			(type default)
 		)
 		(uuid "592ebaec-be5c-447a-8855-9bf8001590a4")
-	)
-	(wire
-		(pts
-			(xy 64.77 100.33) (xy 115.57 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60a4389e-1dfa-4ad3-b986-167336f08862")
 	)
 	(wire
 		(pts
@@ -1400,16 +1360,6 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 107.95) (xy 115.57 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8e0dac5-bd85-40f0-8be0-9c731a97bda9")
-	)
-	(wire
-		(pts
 			(xy 156.21 88.9) (xy 193.04 88.9)
 		)
 		(stroke
@@ -1497,16 +1447,6 @@
 			(type default)
 		)
 		(uuid "bbbf2617-228f-4cf2-84a8-ab9fd2ff5cbb")
-	)
-	(wire
-		(pts
-			(xy 64.77 90.17) (xy 115.57 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bde3ee99-b076-474d-8c13-f816813f0bcd")
 	)
 	(wire
 		(pts
@@ -1610,16 +1550,6 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 105.41) (xy 115.57 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0606fb7-b5d3-4321-b8ec-dade4dc6fba0")
-	)
-	(wire
-		(pts
 			(xy 109.22 113.03) (xy 115.57 113.03)
 		)
 		(stroke
@@ -1627,16 +1557,6 @@
 			(type default)
 		)
 		(uuid "d16fe94c-7998-4815-887f-95129015c17f")
-	)
-	(wire
-		(pts
-			(xy 64.77 102.87) (xy 115.57 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d226c744-a0d1-4d11-9532-81c75623b82f")
 	)
 	(polyline
 		(pts
@@ -1737,16 +1657,6 @@
 			(type default)
 		)
 		(uuid "e751ecd4-a08b-40cd-90b0-423508f8d7e3")
-	)
-	(wire
-		(pts
-			(xy 64.77 95.25) (xy 115.57 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e899b04f-bbc3-4f1b-9518-1827a264396a")
 	)
 	(wire
 		(pts
@@ -32210,96 +32120,6 @@
 				(justify right)
 			)
 		)
-		(pin "CAM_1_EN" input
-			(at 64.77 90.17 0)
-			(uuid "dcfa2a5f-0fb3-476b-af64-a0003667bbb0")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CAM_1_RX" bidirectional
-			(at 64.77 92.71 0)
-			(uuid "040ec081-401a-4ade-b8f2-86b32c1970f7")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CAM_1_TX" bidirectional
-			(at 64.77 95.25 0)
-			(uuid "8be20f92-a1dd-42e9-9423-a3255b38bd0a")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CAM_2_EN" input
-			(at 64.77 97.79 0)
-			(uuid "8d9244e5-65bd-404e-96a9-4277ca0b831c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CAM_2_RX" bidirectional
-			(at 64.77 100.33 0)
-			(uuid "627c1092-5bd2-42c0-b444-5acdd6187740")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CAM_2_TX" bidirectional
-			(at 64.77 102.87 0)
-			(uuid "31ed7a62-6fb5-4b04-bbf5-6d2f4375b7f9")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CAM_3_EN" input
-			(at 64.77 105.41 0)
-			(uuid "a1557f34-0809-4b34-80c7-fe528a3683ee")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CAM_3_RX" bidirectional
-			(at 64.77 107.95 0)
-			(uuid "be3b8912-2603-4456-b554-dcf156c991c9")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CAM_3_TX" bidirectional
-			(at 64.77 110.49 0)
-			(uuid "cd0a55aa-6092-402a-ae2a-b2b6cf097186")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "ENC_A" input
 			(at 64.77 113.03 0)
 			(uuid "35f440ab-8d5a-4abd-891e-5d6e8a141b98")
@@ -32333,16 +32153,6 @@
 		(pin "+3V3" input
 			(at 38.1 90.17 180)
 			(uuid "ba890689-0390-4209-9c18-37aea3ba082d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "5V_CAM" input
-			(at 38.1 93.98 180)
-			(uuid "29d9533c-5e46-4351-9268-dec8b9854106")
 			(effects
 				(font
 					(size 1.27 1.27)
