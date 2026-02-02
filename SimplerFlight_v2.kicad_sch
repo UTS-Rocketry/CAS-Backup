@@ -532,19 +532,6 @@
 		)
 		(uuid "c834ef68-366a-4fc1-9501-02826af36baf")
 	)
-	(text "Camera Current Monitor"
-		(exclude_from_sim no)
-		(at 132.08 30.734 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify right)
-		)
-		(uuid "e37f3ce4-fef6-475e-9466-916d053c1e48")
-	)
 	(text "Encoder\nTest\nPoints"
 		(exclude_from_sim no)
 		(at 103.632 122.428 0)
@@ -810,16 +797,6 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 29.21) (xy 33.02 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b80c321-1b29-49d8-b92f-329787f4c4b7")
-	)
-	(wire
-		(pts
 			(xy 109.22 113.03) (xy 109.22 119.38)
 		)
 		(stroke
@@ -1040,16 +1017,6 @@
 	)
 	(polyline
 		(pts
-			(xy 133.35 54.61) (xy 133.35 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c1799af-1e7e-4b66-8e8a-6bb68f4dee30")
-	)
-	(polyline
-		(pts
 			(xy 173.99 156.21) (xy 173.99 143.51)
 		)
 		(stroke
@@ -1097,16 +1064,6 @@
 			(type default)
 		)
 		(uuid "4f7e39a6-b62a-4925-9454-1e616864e609")
-	)
-	(wire
-		(pts
-			(xy 135.89 52.07) (xy 135.89 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50e099c0-afd3-44ad-b310-a6c844070e02")
 	)
 	(wire
 		(pts
@@ -1220,16 +1177,6 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 29.21) (xy 135.89 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7774a83d-f130-4682-b123-6a64ab7fb1c9")
-	)
-	(wire
-		(pts
 			(xy 30.48 97.79) (xy 30.48 26.67)
 		)
 		(stroke
@@ -1237,16 +1184,6 @@
 			(type default)
 		)
 		(uuid "7a6f0019-96b6-47a1-b7f1-d7b286dc09f8")
-	)
-	(polyline
-		(pts
-			(xy 138.43 30.48) (xy 138.43 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7c6e730b-e8d8-4db9-9ce6-90c035bd7f02")
 	)
 	(wire
 		(pts
@@ -1267,16 +1204,6 @@
 			(type default)
 		)
 		(uuid "8172b582-d485-4688-a665-4687f9b20991")
-	)
-	(polyline
-		(pts
-			(xy 138.43 54.61) (xy 133.35 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8341cfae-1c94-4316-84ef-c943fd83d98f")
 	)
 	(wire
 		(pts
@@ -1610,16 +1537,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 29.21) (xy 33.02 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2ebafd3-d831-46c0-b27c-4deef54695a0")
-	)
-	(wire
-		(pts
 			(xy 27.94 90.17) (xy 27.94 24.13)
 		)
 		(stroke
@@ -1750,16 +1667,6 @@
 	)
 	(polyline
 		(pts
-			(xy 133.35 30.48) (xy 138.43 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5573088-a432-4f8f-879a-23285289d4e2")
-	)
-	(polyline
-		(pts
 			(xy 111.76 132.08) (xy 104.14 132.08)
 		)
 		(stroke
@@ -1777,16 +1684,6 @@
 			(type default)
 		)
 		(uuid "f8fbebe9-abdd-4223-aa72-7f7ae8d83114")
-	)
-	(wire
-		(pts
-			(xy 33.02 93.98) (xy 38.1 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f91a9ea1-c130-4fb8-9186-f87554a324a7")
 	)
 	(wire
 		(pts
@@ -2792,6 +2689,24 @@
 			"PKDDb/vMjSaNZQLybjqXMorPSUgIyqSyt+wlpObsxHegNGdzKL61wd//2oaRi7f+GJnZYABGTKZK"
 			"ZgQhJhCGdrF96exwzzzx74Mk5kTiPSENWiQS7wlJzInEe0IScyLxnpDEnEi8JyQxJxLvCf8XNt3r"
 			"yuKpUt0AAAAASUVORK5CYIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
@@ -30301,6 +30216,24 @@
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAA=="
 		)
 	)
@@ -30972,77 +30905,6 @@
 			(project "SimplerFlight_v2"
 				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4"
 					(reference "TP12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CSRN2512FKR500:CSRN2512FKR500")
-		(at 135.89 41.91 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "89a0948a-5fe8-4d6b-9719-bd6461ef3106")
-		(property "Reference" "R27"
-			(at 134.62 50.546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "CSRN2512FKR500"
-			(at 139.7 43.1799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "CSRN2512FKR500:RESC6331X70N"
-			(at 135.89 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 135.89 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 135.89 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "048e03a2-dc62-4594-aec3-328aee795989")
-		)
-		(pin "1"
-			(uuid "9ac8452b-d1d9-4e84-b4ff-da8d12abfb28")
-		)
-		(instances
-			(project ""
-				(path "/05521696-5bcb-4d0e-9e87-bbc993e58ce4"
-					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -32460,16 +32322,6 @@
 				(justify right)
 			)
 		)
-		(pin "5V_CAM" output
-			(at 135.89 64.77 90)
-			(uuid "98435fd4-15cf-4fc4-a65a-ff76e8b89288")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "5V_SERVO" output
 			(at 146.05 64.77 90)
 			(uuid "71e40557-d85a-473d-a05c-a8d0fac11125")
@@ -32706,36 +32558,6 @@
 				(justify left)
 			)
 		)
-		(pin "CAM_1_EN" output
-			(at 115.57 90.17 180)
-			(uuid "f02e6187-1b93-47aa-95b1-d9bb52b92729")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "CAM_2_EN" output
-			(at 115.57 97.79 180)
-			(uuid "ca2183ac-edf4-4829-8940-ff710d69c541")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "CAM_3_EN" output
-			(at 115.57 105.41 180)
-			(uuid "d62e4341-29c9-4961-a0d0-867770cf8ef4")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "ENC_A" output
 			(at 115.57 113.03 180)
 			(uuid "e61f8720-af04-48e1-98a6-34183b2b3046")
@@ -32749,46 +32571,6 @@
 		(pin "ENC_B" output
 			(at 115.57 115.57 180)
 			(uuid "9c3e4971-e18b-4f2e-9ebc-631b8f6d2e9b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "USART2_RX" bidirectional
-			(at 115.57 100.33 180)
-			(uuid "964a99b2-fb7b-4c86-b737-12f1fa6c5750")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "USART2_TX" bidirectional
-			(at 115.57 102.87 180)
-			(uuid "2b4da468-179a-411b-84ea-21a4d9bcb65e")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "USART6_RX" bidirectional
-			(at 115.57 107.95 180)
-			(uuid "5c29ea85-792e-4845-9fb7-75cea6819b19")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "USART6_TX" bidirectional
-			(at 115.57 110.49 180)
-			(uuid "4c0a8264-6a9d-4310-8992-94ba94c4d67b")
 			(effects
 				(font
 					(size 1.27 1.27)
