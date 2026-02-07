@@ -1,0 +1,7 @@
+- replace buck converter
+- remove barometer
+- add CAN transceiver
+- replace IMU
+- remove encoder interface
+- add servo w/ quadrature OR potentiometer feedback AND 2x limit switches (open and closed position) interface
+- potentially add additional motor and feedback interface for parachute gliding motor
